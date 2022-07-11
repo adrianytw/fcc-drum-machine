@@ -1,5 +1,5 @@
 # Drum Machine
-live site at: 
+live site at: https://adrianytw.github.io/fcc-drum-machine
 
 ### Sources
 Redux toolkit lib
@@ -10,3 +10,4 @@ sounds/data taken from fcc sample
 design
 store structure
 have the second sound bank shown aswell
+button animations
